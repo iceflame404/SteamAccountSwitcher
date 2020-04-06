@@ -1,0 +1,25 @@
+C:\Users\Administrator\Desktop\sasym\obj\x86\Debug\SteamAccountSwitcher v1.3.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\sasym\bin\Debug\SteamAccountSwitcher v1.3.exe
+C:\Users\Administrator\Desktop\sasym\bin\Debug\SteamAccountSwitcher v1.3.pdb
+C:\Users\Administrator\Desktop\sasym\obj\x86\Debug\SteamAccountSwitcher v1.3.exe
+C:\Users\Administrator\Desktop\sasym\obj\x86\Debug\SteamAccountSwitcher v1.3.pdb
+F:\MYVS\sasym\obj\x86\Debug\Properties.Resources.resources
+F:\MYVS\sasym\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\MYVS\sasym\obj\x86\Debug\SteamAccountSwitcher v1.3.csproj.GenerateResource.Cache
+F:\MYVS\sasym\obj\x86\Debug\WindowsFormsApplication1.about.resources
+C:\sasym\bin\Debug\SteamAccountSwitcher v1.4.exe.config
+C:\sasym\obj\x86\Debug\SteamAccountSwitcher v1.4.exe
+C:\sasym\obj\x86\Debug\SteamAccountSwitcher v1.4.pdb
+C:\sasym\bin\Debug\SteamAccountSwitcher v1.4.exe
+C:\sasym\bin\Debug\SteamAccountSwitcher v1.4.pdb
+C:\sasym\obj\x86\Debug\SteamAccountSwitcher v1.3.csprojResolveAssemblyReference.cache
+C:\sasym\obj\x86\Debug\Properties.Resources.resources
+C:\sasym\obj\x86\Debug\WindowsFormsApplication1.about.resources
+C:\sasym\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\sasym\obj\x86\Debug\SteamAccountSwitcher v1.3.csproj.GenerateResource.Cache
+F:\MYVS\sasym\obj\x86\Debug\SteamAccountSwitcher v1.3.csprojResolveAssemblyReference.cache
+F:\MYVS\sasym\bin\Debug\SteamAccountSwitcher v1.42.exe.config
+F:\MYVS\sasym\bin\Debug\SteamAccountSwitcher v1.42.exe
+F:\MYVS\sasym\bin\Debug\SteamAccountSwitcher v1.42.pdb
+F:\MYVS\sasym\obj\x86\Debug\SteamAccountSwitcher v1.42.exe
+F:\MYVS\sasym\obj\x86\Debug\SteamAccountSwitcher v1.42.pdb

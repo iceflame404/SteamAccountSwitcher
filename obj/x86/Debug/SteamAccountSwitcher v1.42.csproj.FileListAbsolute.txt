@@ -1,0 +1,9 @@
+F:\MYVS\sasym\bin\Debug\SteamAccountSwitcher v1.42.pdb
+F:\MYVS\sasym\obj\x86\Debug\Properties.Resources.resources
+F:\MYVS\sasym\obj\x86\Debug\WindowsFormsApplication1.about.resources
+F:\MYVS\sasym\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\MYVS\sasym\obj\x86\Debug\SteamAccountSwitcher v1.42.csproj.GenerateResource.Cache
+F:\MYVS\sasym\obj\x86\Debug\SteamAccountSwitcher v1.42.pdb
+F:\MYVS\sasym\bin\Debug\SteamAccountSwitcher v1.42.exe.config
+F:\MYVS\sasym\bin\Debug\SteamAccountSwitcher v1.42.exe
+F:\MYVS\sasym\obj\x86\Debug\SteamAccountSwitcher v1.42.exe
